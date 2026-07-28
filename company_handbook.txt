@@ -1,0 +1,18 @@
+Company Handbook
+
+Work Arrangement
+Employees follow a hybrid work schedule. Office attendance is required on Tuesday, Wednesday, and Thursday. Monday and Friday may be worked remotely with manager approval.
+
+Leave Policy
+Full-time employees receive 30 days of annual paid leave. Leave accrues monthly and must be approved before use.
+
+Technology Standards
+Backend services are developed using Python.
+Frontend applications use React.
+Mobile applications use React Native.
+
+Security
+Employees must use multi-factor authentication for company accounts and must not share passwords.
+
+Support
+Technical issues should be reported through the internal support portal.
